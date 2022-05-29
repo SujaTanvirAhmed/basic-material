@@ -1,0 +1,22 @@
+<div class="user-cont">
+    <img [src]="user.sex==='male'?avatarMale:avatarFemale" alt="avatar">
+    <h4>{{user.userName}}</h4>
+    <h5>{{user.position}}</h5>
+    <h5>Gender: {{user.sex==="male"?"Male":"Female"}}</h5>
+
+    <button mat-button color="primary" routerLink="{{'/users/update/'+user.id}}"
+        (updateUserEvent)="catchUpdateUserEvent()">
+        <span class="add-user-btn">
+            <mat-icon>edit</mat-icon>Update
+        </span>
+    </button>
+
+    &nbsp;
+
+    <button mat-button color="accent" (click)="onDelete(user.id)">
+        <span class="add-user-btn">
+            <mat-icon>delete</mat-icon>Delete
+        </span>
+    </button>
+
+</div>

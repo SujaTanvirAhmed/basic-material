@@ -1,0 +1,30 @@
+/* .cdk-overlay-pane {
+    width: 500px;
+} */
+.form-heading {
+    text-align: center;
+}
+
+.job-application-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.example-radio-group {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 30px;
+}
+
+.example-radio-button {
+    margin: 5px;
+}
+
+.snacks-cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 30px;
+}

@@ -1,0 +1,19 @@
+.application-container {
+    width: 880px;
+    margin: 20px auto;
+}
+
+.form-title {
+    text-align: center;
+}
+
+.job-application {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    gap: 50px;
+    border: 1px solid gray;
+}
+
+.user-input {
+    padding: 8px 12px;
+}

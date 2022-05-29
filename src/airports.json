@@ -1,0 +1,1588 @@
+{
+    "data": [
+        {
+            "name": "Aktau, Kazakhstan - Aktau Airport [SCO]",
+            "value": "SCO"
+        },
+        {
+            "name": "Aktobe, Kazakhstan - Aktobe International Airport [AKX]",
+            "value": "AKX"
+        },
+        {
+            "name": "Almaty, Kazakhstan - Almaty International Airport [ALA]",
+            "value": "ALA"
+        },
+        {
+            "name": "Atyrau, Kazakhstan - Atyrau Airport [GUW]",
+            "value": "GUW"
+        },
+        {
+            "name": "Karaganda, Kazakhstan - Karaganda Airport [KGF]",
+            "value": "KGF"
+        },
+        {
+            "name": "Kokshetau, Kazakhstan - Kokshetau Airport [KOV]",
+            "value": "KOV"
+        },
+        {
+            "name": "Kostanay, Kazakhstan - Kostanay Airport [KSN]",
+            "value": "KSN"
+        },
+        {
+            "name": "Kyzylorda, Kazakhstan - Kyzylorda Airport [KZO]",
+            "value": "KZO"
+        },
+        {
+            "name": "Nur-Sultan, Kazakhstan - Nursultan Nazarbayev International Airport [TSE]",
+            "value": "TSE"
+        },
+        {
+            "name": "Oral, Kazakhstan - Oral Ak Zhol Airport [URA]",
+            "value": "URA"
+        },
+        {
+            "name": "Oskemen, Kazakhstan - Oskemen Airport [UKK]",
+            "value": "UKK"
+        },
+        {
+            "name": "Pavlodar, Kazakhstan - Pavlodar Airport [PWQ]",
+            "value": "PWQ"
+        },
+        {
+            "name": "Petropavl, Kazakhstan - Petropavl Airport [PPK]",
+            "value": "PPK"
+        },
+        {
+            "name": "Semey, Kazakhstan - Semey Airport [PLX]",
+            "value": "PLX"
+        },
+        {
+            "name": "Shymkent, Kazakhstan - Shymkent Airport [CIT]",
+            "value": "CIT"
+        },
+        {
+            "name": "Taraz, Kazakhstan - Taraz Airport [DMB]",
+            "value": "DMB"
+        },
+        {
+            "name": "Bishkek, Kyrgyzstan - Manas International Airport [FRU]",
+            "value": "FRU"
+        },
+        {
+            "name": "Issyk-Kul, Kyrgyzstan - Issyk-Kul International Airport [IKU]",
+            "value": "IKU"
+        },
+        {
+            "name": "Karakol, Kyrgyzstan - Karakol International Airport [КПЖ (Russian)]",
+            "value": "КПЖ (Russian)"
+        },
+        {
+            "name": "Osh, Kyrgyzstan - Osh Airport [OSS]",
+            "value": "OSS"
+        },
+        {
+            "name": "Bokhtar, Tajikistan - Bokhtar International Airport [KQT]",
+            "value": "KQT"
+        },
+        {
+            "name": "Dushanbe, Tajikistan - Dushanbe Airport [DYU]",
+            "value": "DYU"
+        },
+        {
+            "name": "Khujand, Tajikistan - Khujand Airport [LBD]",
+            "value": "LBD"
+        },
+        {
+            "name": "Kulob, Tajikistan - Kulob Airport [TJU]",
+            "value": "TJU"
+        },
+        {
+            "name": "Ashgabat, Turkmenistan - Ashgabat Airport [ASB]",
+            "value": "ASB"
+        },
+        {
+            "name": "Da?oguz, Turkmenistan - Da?oguz Airport [TAZ]",
+            "value": "TAZ"
+        },
+        {
+            "name": "Mary, Turkmenistan - Mary International Airport [MYP]",
+            "value": "MYP"
+        },
+        {
+            "name": "Turkmenbashi, Turkmenistan - Turkmenbashi International Airport [KRW]",
+            "value": "KRW"
+        },
+        {
+            "name": "Trkmenabat, Turkmenistan - Turkmenabat International Airport [CRZ]",
+            "value": "CRZ"
+        },
+        {
+            "name": "Andijan, Uzbekistan - Andizhan Airport [AZN]",
+            "value": "AZN"
+        },
+        {
+            "name": "Bukhara, Uzbekistan - Bukhara International Airport [BHK]",
+            "value": "BHK"
+        },
+        {
+            "name": "Fergana, Uzbekistan - Fergana International Airport [FEG]",
+            "value": "FEG"
+        },
+        {
+            "name": "Qarshi, Uzbekistan - Karshi Airport [KSQ]",
+            "value": "KSQ"
+        },
+        {
+            "name": "Namangan, Uzbekistan - Namangan Airport [NMA]",
+            "value": "NMA"
+        },
+        {
+            "name": "Navoi, Uzbekistan - Navoi International Airport [NVI]",
+            "value": "NVI"
+        },
+        {
+            "name": "Nukus, Uzbekistan - Nukus Airport [NCU]",
+            "value": "NCU"
+        },
+        {
+            "name": "Samarkand, Uzbekistan - Samarkand International Airport [SKD]",
+            "value": "SKD"
+        },
+        {
+            "name": "Tashkent, Uzbekistan - Islam Karimov Tashkent International Airport [TAS]",
+            "value": "TAS"
+        },
+        {
+            "name": "Termez, Uzbekistan - Termez Airport [TMJ]",
+            "value": "TMJ"
+        },
+        {
+            "name": "Urgench, Uzbekistan - Urgench International Airport [UGC]",
+            "value": "UGC"
+        },
+        {
+            "name": "Pyongyang, North Korea - Pyongyang International Airport [FNJ]",
+            "value": "FNJ"
+        },
+        {
+            "name": "Akita, Japan - Akita Airport [AXT]",
+            "value": "AXT"
+        },
+        {
+            "name": "Aomori, Japan - Aomori Airport [AOJ]",
+            "value": "AOJ"
+        },
+        {
+            "name": "Fukuoka, Japan - Fukuoka Airport [FUK]",
+            "value": "FUK"
+        },
+        {
+            "name": "Hakodate, Japan - Hakodate Airport [HKD]",
+            "value": "HKD"
+        },
+        {
+            "name": "Kagoshima, Japan - Kagoshima Airport [KOJ]",
+            "value": "KOJ"
+        },
+        {
+            "name": "Komatsu, Japan - Komatsu Airport [KMQ]",
+            "value": "KMQ"
+        },
+        {
+            "name": "Hiroshima, Japan - Hiroshima Airport [HIJ]",
+            "value": "HIJ"
+        },
+        {
+            "name": "Kitakyushu, Japan - Kitakyushu Airport [KKJ]",
+            "value": "KKJ"
+        },
+        {
+            "name": "Nagasaki, Japan - Nagasaki Airport [NGS]",
+            "value": "NGS"
+        },
+        {
+            "name": "Naha, Japan - Naha Airport [OKA]",
+            "value": "OKA"
+        },
+        {
+            "name": "Nagoya, Japan - Chubu Centrair International Airport [NGO]",
+            "value": "NGO"
+        },
+        {
+            "name": "Niigata, Japan - Niigata Airport [KIJ]",
+            "value": "KIJ"
+        },
+        {
+            "name": "?ita, Japan - Oita Airport [OIT]",
+            "value": "OIT"
+        },
+        {
+            "name": "Okayama, Japan - Okayama Airport [OKJ]",
+            "value": "OKJ"
+        },
+        {
+            "name": "Osaka, Japan - Kansai International Airport [KIX]",
+            "value": "KIX"
+        },
+        {
+            "name": "Sapporo, Japan - New Chitose Airport [CTS]",
+            "value": "CTS"
+        },
+        {
+            "name": "Sendai, Japan - Sendai Airport [SDJ]",
+            "value": "SDJ"
+        },
+        {
+            "name": "Shizuoka, Japan - Shizuoka Airport [FSZ]",
+            "value": "FSZ"
+        },
+        {
+            "name": "Tokyo/Yokohama, Japan - Haneda Airport [HND]",
+            "value": "HND"
+        },
+        {
+            "name": "Tokyo/Chiba, Japan - Narita International Airport [NRT]",
+            "value": "NRT"
+        },
+        {
+            "name": "Ulaanbaatar, Mongolia - Chinggis Khaan International Airport [ULN]",
+            "value": "ULN"
+        },
+        {
+            "name": "Baotou, China - Baotou Donghe Airport [BAV]",
+            "value": "BAV"
+        },
+        {
+            "name": "Beihai, China - Beihai Fucheng Airport [BHY]",
+            "value": "BHY"
+        },
+        {
+            "name": "Beijing, China - Beijing Capital International Airport [PEK]",
+            "value": "PEK"
+        },
+        {
+            "name": "Beijing, China - Beijing Daxing International Airport [PKX]",
+            "value": "PKX"
+        },
+        {
+            "name": "Changchun, China - Changchun Longjia International Airport [CGQ]",
+            "value": "CGQ"
+        },
+        {
+            "name": "Changsha, China - Changsha Huanghua International Airport [CSX]",
+            "value": "CSX"
+        },
+        {
+            "name": "Changzhou, China - Changzhou Benniu International Airport [CZX]",
+            "value": "CZX"
+        },
+        {
+            "name": "Chengdu, China - Chengdu Shuangliu International Airport [CTU]",
+            "value": "CTU"
+        },
+        {
+            "name": "Chengdu, China - Chengdu Tianfu International Airport [TFU]",
+            "value": "TFU"
+        },
+        {
+            "name": "Chongqing, China - Chongqing Jiangbei International Airport [CKG]",
+            "value": "CKG"
+        },
+        {
+            "name": "Dalian, China - Dalian Zhoushuizi International Airport [DLC]",
+            "value": "DLC"
+        },
+        {
+            "name": "Dandong, China - Dandong Langtou Airport [DDG]",
+            "value": "DDG"
+        },
+        {
+            "name": "Datong, China - Datong Yungang Airport [DAT]",
+            "value": "DAT"
+        },
+        {
+            "name": "Dunhuang, China - Dunhuang Mogao International Airport [DNH]",
+            "value": "DNH"
+        },
+        {
+            "name": "Enshi City, China - Enshi Xujiaping Airport [ENH]",
+            "value": "ENH"
+        },
+        {
+            "name": "Fuzhou, China - Fuzhou Changle International Airport [FOC]",
+            "value": "FOC"
+        },
+        {
+            "name": "Ganzhou, China - Ganzhou Huangjin Airport [KOW]",
+            "value": "KOW"
+        },
+        {
+            "name": "Guangzhou, China - Guangzhou Baiyun International Airport [CAN]",
+            "value": "CAN"
+        },
+        {
+            "name": "Guilin, China - Guilin Liangjiang International Airport [KWL]",
+            "value": "KWL"
+        },
+        {
+            "name": "Guiyang, China - Guiyang Longdongbao International Airport [KWE]",
+            "value": "KWE"
+        },
+        {
+            "name": "Haikou, China - Haikou Meilan International Airport [HAK]",
+            "value": "HAK"
+        },
+        {
+            "name": "Hangzhou, China - Hangzhou Xiaoshan International Airport [HGH]",
+            "value": "HGH"
+        },
+        {
+            "name": "Harbin, China - Harbin Taiping International Airport [HRB]",
+            "value": "HRB"
+        },
+        {
+            "name": "Hefei, China - Hefei Xinqiao International Airport [HFE]",
+            "value": "HFE"
+        },
+        {
+            "name": "Heihe, China - Heihe Aihui Airport [HEK]",
+            "value": "HEK"
+        },
+        {
+            "name": "Hohhot, China - Hohhot Baita International Airport [HET]",
+            "value": "HET"
+        },
+        {
+            "name": "Huai'an, China - Huai'an Lianshui International Airport [HIA]",
+            "value": "HIA"
+        },
+        {
+            "name": "Huangshan City, China - Huangshan Tunxi International Airport [TXN]",
+            "value": "TXN"
+        },
+        {
+            "name": "Hulunbuir, China - Hulunbuir Hailar Airport [HLD]",
+            "value": "HLD"
+        },
+        {
+            "name": "Jiamusi, China - Jiamusi Dongjiao Airport [JMU]",
+            "value": "JMU"
+        },
+        {
+            "name": "Jieyang, China - Jieyang Chaoshan International Airport [SWA]",
+            "value": "SWA"
+        },
+        {
+            "name": "Jinan, China - Jinan Yaoqiang International Airport [TNA]",
+            "value": "TNA"
+        },
+        {
+            "name": "Kunming, China - Kunming Changshui International Airport [KMG]",
+            "value": "KMG"
+        },
+        {
+            "name": "Lanzhou, China - Lanzhou Zhongchuan International Airport [LHW]",
+            "value": "LHW"
+        },
+        {
+            "name": "Lhasa, China - Lhasa Gonggar Airport [LXA]",
+            "value": "LXA"
+        },
+        {
+            "name": "Lianyungang, China - Lianyungang Baitabu Airport [LYG]",
+            "value": "LYG"
+        },
+        {
+            "name": "Lijiang, China - Lijiang Sanyi International Airport [LJG]",
+            "value": "LJG"
+        },
+        {
+            "name": "Linyi, China - Linyi Qiyang Airport [LYI]",
+            "value": "LYI"
+        },
+        {
+            "name": "Luoyang, China - Luoyang Beijiao Airport [LYA]",
+            "value": "LYA"
+        },
+        {
+            "name": "Mangshi,Dehong Mangshi Airport [LUM]",
+            "value": "LUM"
+        },
+        {
+            "name": "Manzhouli, China - Manzhouli Xijiao Airport [NZH]",
+            "value": "NZH"
+        },
+        {
+            "name": "Meizhou, China - Meixian Airport [MXZ]",
+            "value": "MXZ"
+        },
+        {
+            "name": "Mudanjiang, China - Mudanjiang Hailang International Airport [MDG]",
+            "value": "MDG"
+        },
+        {
+            "name": "Nanchang, China - Nanchang Changbei International Airport [KHN]",
+            "value": "KHN"
+        },
+        {
+            "name": "Nanjing, China - Nanjing Lukou International Airport [NKG]",
+            "value": "NKG"
+        },
+        {
+            "name": "Nanning, China - Nanning Wuxu International Airport [NNG]",
+            "value": "NNG"
+        },
+        {
+            "name": "Nantong, China - Nantong Xingdong International Airport [NTG]",
+            "value": "NTG"
+        },
+        {
+            "name": "Ningbo, China - Ningbo Lishe International Airport [NGB]",
+            "value": "NGB"
+        },
+        {
+            "name": "Ordos City, China - Ordos Ejin Horo International Airport [DSN]",
+            "value": "DSN"
+        },
+        {
+            "name": "Qingdao, China - Qingdao Liuting International Airport [TAO]",
+            "value": "TAO"
+        },
+        {
+            "name": "Qinhuangdao, China - Qinhuangdao Beidaihe Airport [BPE]",
+            "value": "BPE"
+        },
+        {
+            "name": "Qiqihar, China - Qiqihar Sanjiazi Airport [NDG]",
+            "value": "NDG"
+        },
+        {
+            "name": "Quanzhou, China - Quanzhou Jinjiang International Airport [JJN]",
+            "value": "JJN"
+        },
+        {
+            "name": "Sanya, China - Sanya Phoenix International Airport [SYX]",
+            "value": "SYX"
+        },
+        {
+            "name": "Shanghai, China - Shanghai Hongqiao International Airport [SHA]",
+            "value": "SHA"
+        },
+        {
+            "name": "Shanghai, China - Shanghai Pudong International Airport [PVG]",
+            "value": "PVG"
+        },
+        {
+            "name": "Shenyang, China - Shenyang Taoxian International Airport [SHE]",
+            "value": "SHE"
+        },
+        {
+            "name": "Shenzhen, China - Shenzhen Bao'an International Airport [SZX]",
+            "value": "SZX"
+        },
+        {
+            "name": "Shijiazhuang, China - Shijiazhuang Zhengding International Airport [SJW]",
+            "value": "SJW"
+        },
+        {
+            "name": "Taiyuan, China - Taiyuan Wusu International Airport [TYN]",
+            "value": "TYN"
+        },
+        {
+            "name": "Tianjin, China - Tianjin Binhai International Airport [TSN]",
+            "value": "TSN"
+        },
+        {
+            "name": "Ulanqab, China - Ulanqab Jining Airport [UCB]",
+            "value": "UCB"
+        },
+        {
+            "name": "šrmqi, China - šrmqi Diwopu International Airport [URC]",
+            "value": "URC"
+        },
+        {
+            "name": "Wanzhou, China - Wanzhou Wuqiao Airport [WXN]",
+            "value": "WXN"
+        },
+        {
+            "name": "Weihai, China - Weihai Dashuibo Airport [WEH]",
+            "value": "WEH"
+        },
+        {
+            "name": "Wenzhou, China - Wenzhou Yongqiang Airport [WNZ]",
+            "value": "WNZ"
+        },
+        {
+            "name": "Wuhan, China - Wuhan Tianhe International Airport [WUH]",
+            "value": "WUH"
+        },
+        {
+            "name": "Wuxi, China - Sunan Shuofang International Airport [WUX]",
+            "value": "WUX"
+        },
+        {
+            "name": "Wuyishan, China - Wuyishan Airport [WUS]",
+            "value": "WUS"
+        },
+        {
+            "name": "Xiamen, China - Xiamen Gaoqi International Airport [XMN]",
+            "value": "XMN"
+        },
+        {
+            "name": "Xi'an, China - Xi'an Xianyang International Airport [XIY]",
+            "value": "XIY"
+        },
+        {
+            "name": "Xining, China - Xining Caojiabao International Airport [XNN]",
+            "value": "XNN"
+        },
+        {
+            "name": "Xinzhou, China - Xinzhou Wutaishan Airport [WUT]",
+            "value": "WUT"
+        },
+        {
+            "name": "Xishuangbanna, China - Xishuangbanna Gasa International Airport [JHG]",
+            "value": "JHG"
+        },
+        {
+            "name": "Xuzhou, China - Xuzhou Guanyin Airport [XUZ]",
+            "value": "XUZ"
+        },
+        {
+            "name": "Yancheng, China - Yancheng Nanyang Airport [YNZ]",
+            "value": "YNZ"
+        },
+        {
+            "name": "Yangzhou, China - Yangzhou Taizhou International Airport [YTY]",
+            "value": "YTY"
+        },
+        {
+            "name": "Yanji, China - Yanji Airport [YNJ]",
+            "value": "YNJ"
+        },
+        {
+            "name": "Yantai, China - Yantai Penglai International Airport [YNT]",
+            "value": "YNT"
+        },
+        {
+            "name": "Yichang, China - Yichang Sanxia Airport [YIH]",
+            "value": "YIH"
+        },
+        {
+            "name": "Yinchuan, China - Yinchuan Hedong International Airport [INC]",
+            "value": "INC"
+        },
+        {
+            "name": "Yiwu, China - Yiwu Airport [YIW]",
+            "value": "YIW"
+        },
+        {
+            "name": "Yuncheng, China - Yuncheng Guangong Airport [YCU]",
+            "value": "YCU"
+        },
+        {
+            "name": "Zhangjiajie, China - Zhangjiajie Hehua Airport [DYG]",
+            "value": "DYG"
+        },
+        {
+            "name": "Zhanjiang, China - Zhanjiang Airport [ZHA]",
+            "value": "ZHA"
+        },
+        {
+            "name": "Zhengzhou, China - Zhengzhou Xinzheng International Airport [CGO]",
+            "value": "CGO"
+        },
+        {
+            "name": "Zhuhai, China - Zhuhai Jinwan Airport [ZUH]",
+            "value": "ZUH"
+        },
+        {
+            "name": "Zunyi, China - Zunyi Xinzhou Airport [ZYI]",
+            "value": "ZYI"
+        },
+        {
+            "name": "Hong Kong, Hong Kong - Hong Kong International Airport [HKG]",
+            "value": "HKG"
+        },
+        {
+            "name": "Macau, Macau - Macau International Airport [MFM]",
+            "value": "MFM"
+        },
+        {
+            "name": "Hualien City, Taiwan - Hualien Airport [HUN]",
+            "value": "HUN"
+        },
+        {
+            "name": "Kaohsiung, Taiwan - Kaohsiung International Airport [KHH]",
+            "value": "KHH"
+        },
+        {
+            "name": "Taichung, Taiwan - Taichung International Airport [RMQ]",
+            "value": "RMQ"
+        },
+        {
+            "name": "Tainan, Taiwan - Tainan Airport [TNN]",
+            "value": "TNN"
+        },
+        {
+            "name": "Taipei, Taiwan - Taipei Songshan Airport [TSA]",
+            "value": "TSA"
+        },
+        {
+            "name": "Taoyuan, Taiwan - Taoyuan International Airport [TPE]",
+            "value": "TPE"
+        },
+        {
+            "name": "Busan, South Korea - Gimhae International Airport [PUS]",
+            "value": "PUS"
+        },
+        {
+            "name": "Daegu, South Korea - Daegu International Airport [TAE]",
+            "value": "TAE"
+        },
+        {
+            "name": "Jeju, South Korea - Jeju International Airport [CJU]",
+            "value": "CJU"
+        },
+        {
+            "name": "Seoul, South Korea - Gimpo International Airport [GMP]",
+            "value": "GMP"
+        },
+        {
+            "name": "Incheon, South Korea - Incheon International Airport [ICN]",
+            "value": "ICN"
+        },
+        {
+            "name": "Cheongju, South Korea - Cheongju International Airport [CJJ]",
+            "value": "CJJ"
+        },
+        {
+            "name": "Muan, South Korea - Muan International Airport [MWX]",
+            "value": "MWX"
+        },
+        {
+            "name": "Yangyang, South Korea - Yangyang International Airport [YNY]",
+            "value": "YNY"
+        },
+        {
+            "name": "Chittagong, Bangladesh - Shah Amanat International Airport [CGP]",
+            "value": "CGP"
+        },
+        {
+            "name": "Dhaka, Bangladesh - Shahjalal International Airport [DAC]",
+            "value": "DAC"
+        },
+        {
+            "name": "Sylhet, Bangladesh - Osmani International Airport [ZYL]",
+            "value": "ZYL"
+        },
+        {
+            "name": "Paro, Bhutan - Paro Airport [PBH]",
+            "value": "PBH"
+        },
+        {
+            "name": "Agartala, India - Maharaja Bir Bikram Airport [IXA]",
+            "value": "IXA"
+        },
+        {
+            "name": "Ahmedabad, India - Sardar Vallabhbhai Patel International Airport [AMD]",
+            "value": "AMD"
+        },
+        {
+            "name": "Amritsar, India - Sri Guru Ram Dass Jee International Airport [ATQ]",
+            "value": "ATQ"
+        },
+        {
+            "name": "Bangalore, India - Kempegowda International Airport [BLR]",
+            "value": "BLR"
+        },
+        {
+            "name": "Bhubaneswar, India - Biju Patnaik Airport [BBI]",
+            "value": "BBI"
+        },
+        {
+            "name": "Chennai, India - Chennai International Airport [MAA]",
+            "value": "MAA"
+        },
+        {
+            "name": "Coimbatore, India - Coimbatore International Airport [CJB]",
+            "value": "CJB"
+        },
+        {
+            "name": "Delhi, India - Indira Gandhi International Airport [DEL]",
+            "value": "DEL"
+        },
+        {
+            "name": "Goa, India - Dabolim Airport [GOI]",
+            "value": "GOI"
+        },
+        {
+            "name": "Gaya, India - Gaya Airport [GAY]",
+            "value": "GAY"
+        },
+        {
+            "name": "Guwahati, India - Lokpriya Gopinath Bordoloi International Airport [GAU]",
+            "value": "GAU"
+        },
+        {
+            "name": "Hyderabad, India - Rajiv Gandhi International Airport [HYD]",
+            "value": "HYD"
+        },
+        {
+            "name": "Imphal, India - Imphal Airport [IMF]",
+            "value": "IMF"
+        },
+        {
+            "name": "Indore, India - Devi Ahilya Bai Holkar Airport [IDR]",
+            "value": "IDR"
+        },
+        {
+            "name": "Jaipur, India - Jaipur International Airport [JAI]",
+            "value": "JAI"
+        },
+        {
+            "name": "Kannur, India - Kannur International Airport [CNN]",
+            "value": "CNN"
+        },
+        {
+            "name": "Kochi, India - Cochin International Airport [COK]",
+            "value": "COK"
+        },
+        {
+            "name": "Kolkata, India - Netaji Subhas Chandra Bose International Airport [CCU]",
+            "value": "CCU"
+        },
+        {
+            "name": "Kozhikode, India - Calicut International Airport [CCJ]",
+            "value": "CCJ"
+        },
+        {
+            "name": "Lucknow, India - Chaudhary Charan Singh Airport [LKO]",
+            "value": "LKO"
+        },
+        {
+            "name": "Madurai, India - Madurai Airport [IXM]",
+            "value": "IXM"
+        },
+        {
+            "name": "Mangalore, India - Mangalore International Airport [IXE]",
+            "value": "IXE"
+        },
+        {
+            "name": "Mumbai, India - Chhatrapati Shivaji Maharaj International Airport [BOM]",
+            "value": "BOM"
+        },
+        {
+            "name": "Nagpur, India - Dr. Babasaheb Ambedkar International Airport [NAG]",
+            "value": "NAG"
+        },
+        {
+            "name": "Pune, India - Pune Airport [PNQ]",
+            "value": "PNQ"
+        },
+        {
+            "name": "Ranchi, India - Birsa Munda Airport [IXR]",
+            "value": "IXR"
+        },
+        {
+            "name": "Siliguri, India - Bagdogra Airport [IXB]",
+            "value": "IXB"
+        },
+        {
+            "name": "Srinagar, India - Sheikh ul-Alam International Airport [SXR]",
+            "value": "SXR"
+        },
+        {
+            "name": "Surat, India - Surat Airport [STV]",
+            "value": "STV"
+        },
+        {
+            "name": "Thiruvananthapuram, India - Trivandrum International Airport [TRV]",
+            "value": "TRV"
+        },
+        {
+            "name": "Tirupati, India - Tirupati International Airport [TIR]",
+            "value": "TIR"
+        },
+        {
+            "name": "Trichy, India - Tiruchirappalli International Airport [TRZ]",
+            "value": "TRZ"
+        },
+        {
+            "name": "Vadodara, India - Vadodara Airport [BDQ]",
+            "value": "BDQ"
+        },
+        {
+            "name": "Varanasi, India - Lal Bahadur Shastri Airport [VNS]",
+            "value": "VNS"
+        },
+        {
+            "name": "Vijayawada, India - NTR Amaravati International Airport [VGA]",
+            "value": "VGA"
+        },
+        {
+            "name": "Visakhapatnam, India - Visakhapatnam International Airport [VTZ]",
+            "value": "VTZ"
+        },
+        {
+            "name": "Hulhul Island, Maldives - Velana International Airport [MLE]",
+            "value": "MLE"
+        },
+        {
+            "name": "Addu City, Maldives - Gan International Airport [GAN]",
+            "value": "GAN"
+        },
+        {
+            "name": "Hanimaadhoo, Maldives - Hanimaadhoo International Airport [HAQ]",
+            "value": "HAQ"
+        },
+        {
+            "name": "Maamigili, Maldives - Villa International Airport Maamigili [VAM]",
+            "value": "VAM"
+        },
+        {
+            "name": "Maafaru, Maldives - Maafaru International Airport [VRDA]",
+            "value": "VRDA"
+        },
+        {
+            "name": "Kathmandu, Nepal - Tribhuvan International Airport [KTM]",
+            "value": "KTM"
+        },
+        {
+            "name": "Bhairahawa, Nepal - Gautam Buddha International Airport [BWA]",
+            "value": "BWA"
+        },
+        {
+            "name": "Bahawalpur, Pakistan - Bahawalpur Airport [BHV]",
+            "value": "BHV"
+        },
+        {
+            "name": "Faisalabad, Pakistan - Faisalabad International Airport [LYP]",
+            "value": "LYP"
+        },
+        {
+            "name": "Gwadar, Pakistan - Gwadar International Airport [GWD]",
+            "value": "GWD"
+        },
+        {
+            "name": "Islamabad, Pakistan - Islamabad International Airport [ISB]",
+            "value": "ISB"
+        },
+        {
+            "name": "Karachi, Pakistan - Jinnah International Airport [KHI]",
+            "value": "KHI"
+        },
+        {
+            "name": "Lahore, Pakistan - Allama Iqbal International Airport [LHE]",
+            "value": "LHE"
+        },
+        {
+            "name": "Multan, Pakistan - Multan International Airport [MUX]",
+            "value": "MUX"
+        },
+        {
+            "name": "Peshawar, Pakistan - Bacha Khan International Airport [PEW]",
+            "value": "PEW"
+        },
+        {
+            "name": "Quetta, Pakistan - Quetta International Airport [UET]",
+            "value": "UET"
+        },
+        {
+            "name": "Rahim Yar Khan, Pakistan - Shaikh Zayed International Airport [RYK]",
+            "value": "RYK"
+        },
+        {
+            "name": "Sialkot, Pakistan - Sialkot International Airport [SKT]",
+            "value": "SKT"
+        },
+        {
+            "name": "Turbat, Pakistan - Turbat International Airport [TUK]",
+            "value": "TUK"
+        },
+        {
+            "name": "Colombo, Sri Lanka - Bandaranaike International Airport [CMB]",
+            "value": "CMB"
+        },
+        {
+            "name": "Colombo, Sri Lanka - Ratmalana Airport [RML]",
+            "value": "RML"
+        },
+        {
+            "name": "Hambantota, Sri Lanka - Mattala Rajapaksa International Airport [HRI]",
+            "value": "HRI"
+        },
+        {
+            "name": "Jaffna, Sri Lanka - Jaffna International Airport [JAF]",
+            "value": "JAF"
+        },
+        {
+            "name": "Bandar Seri Begawan, Brunei - Brunei International Airport [BWN]",
+            "value": "BWN"
+        },
+        {
+            "name": "Phnom Penh, Cambodia - Phnom Penh International Airport [PNH]",
+            "value": "PNH"
+        },
+        {
+            "name": "Siem Reap, Cambodia - Siem Reap International Airport [REP]",
+            "value": "REP"
+        },
+        {
+            "name": "Sihanoukville, Cambodia - Sihanouk International Airport [KOS]",
+            "value": "KOS"
+        },
+        {
+            "name": "Dili, East Timor - Presidente Nicolau Lobato International Airport [DIL]",
+            "value": "DIL"
+        },
+        {
+            "name": "Balikpapan, Indonesia - Sultan Aji Muhammad Sulaiman Sepinggan Airport [BPN]",
+            "value": "BPN"
+        },
+        {
+            "name": "Banda Aceh, Indonesia - Sultan Iskandar Muda International Airport [BTJ]",
+            "value": "BTJ"
+        },
+        {
+            "name": "Bandar Lampung, Indonesia - Radin Inten II International Airport [TKG]",
+            "value": "TKG"
+        },
+        {
+            "name": "Bandung, Indonesia - Husein Sastranegara International Airport [BDO]",
+            "value": "BDO"
+        },
+        {
+            "name": "Bandung, Indonesia - Kertajati International Airport [KJT]",
+            "value": "KJT"
+        },
+        {
+            "name": "Banjarmasin, Indonesia - Syamsudin Noor International Airport [BDJ]",
+            "value": "BDJ"
+        },
+        {
+            "name": "Banyuwangi, Indonesia - Banyuwangi International Airport [BWX]",
+            "value": "BWX"
+        },
+        {
+            "name": "Batam, Indonesia - Hang Nadim International Airport [BTH]",
+            "value": "BTH"
+        },
+        {
+            "name": "Biak, Indonesia - Frans Kaisiepo International Airport [BIK]",
+            "value": "BIK"
+        },
+        {
+            "name": "Denpasar, Indonesia - Ngurah Rai International Airport [DPS]",
+            "value": "DPS"
+        },
+        {
+            "name": "Jakarta, Indonesia - Halim Perdanakusuma International Airport [HLP]",
+            "value": "HLP"
+        },
+        {
+            "name": "Jakarta, Indonesia - Soekarno?Hatta International Airport [CGK]",
+            "value": "CGK"
+        },
+        {
+            "name": "Kupang, Indonesia - El Tari International Airport [KOE]",
+            "value": "KOE"
+        },
+        {
+            "name": "Makassar, Indonesia - Sultan Hasanuddin International Airport [UPG]",
+            "value": "UPG"
+        },
+        {
+            "name": "Manado, Indonesia - Sam Ratulangi International Airport [MDC]",
+            "value": "MDC"
+        },
+        {
+            "name": "Mataram, Indonesia - Lombok International Airport [LOP]",
+            "value": "LOP"
+        },
+        {
+            "name": "Medan, Indonesia - Kualanamu International Airport [KNO]",
+            "value": "KNO"
+        },
+        {
+            "name": "Padang, Indonesia - Minangkabau International Airport [PDG]",
+            "value": "PDG"
+        },
+        {
+            "name": "Palembang, Indonesia - Sultan Mahmud Badaruddin II International Airport [PLM]",
+            "value": "PLM"
+        },
+        {
+            "name": "Pekanbaru, Indonesia - Sultan Syarif Kasim II International Airport [PKU]",
+            "value": "PKU"
+        },
+        {
+            "name": "Pontianak, Indonesia - Supadio International Airport [PNK]",
+            "value": "PNK"
+        },
+        {
+            "name": "Semarang, Indonesia - Jenderal Ahmad Yani International Airport [SRG]",
+            "value": "SRG"
+        },
+        {
+            "name": "Siborong-Borong, Indonesia - Sisingamangaraja XII International Airport [DTB]",
+            "value": "DTB"
+        },
+        {
+            "name": "Surabaya, Indonesia - Juanda International Airport [SUB]",
+            "value": "SUB"
+        },
+        {
+            "name": "Surakarta, Indonesia - Adisumarmo International Airport [SOC]",
+            "value": "SOC"
+        },
+        {
+            "name": "Tanjung Pandan, Indonesia - H.A.S. Hanandjoeddin International Airport [TJQ]",
+            "value": "TJQ"
+        },
+        {
+            "name": "Tarakan, Indonesia - Juwata International Airport [TRK]",
+            "value": "TRK"
+        },
+        {
+            "name": "Yogyakarta, Indonesia - Yogyakarta International Airport [YIA]",
+            "value": "YIA"
+        },
+        {
+            "name": "Luang Prabang, Laos - Luang Prabang International Airport [LPQ]",
+            "value": "LPQ"
+        },
+        {
+            "name": "Pakse, Laos - Pakse International Airport [PKZ]",
+            "value": "PKZ"
+        },
+        {
+            "name": "Savannakhet, Laos - Savannakhet Airport [ZVK]",
+            "value": "ZVK"
+        },
+        {
+            "name": "Vientiane, Laos - Wattay International Airport [VTE]",
+            "value": "VTE"
+        },
+        {
+            "name": "Alor Setar, Malaysia - Sultan Abdul Halim Airport [AOR]",
+            "value": "AOR"
+        },
+        {
+            "name": "Ipoh, Malaysia - Sultan Azlan Shah Airport [IPH]",
+            "value": "IPH"
+        },
+        {
+            "name": "Johor Bahru, Malaysia - Senai International Airport [JHB]",
+            "value": "JHB"
+        },
+        {
+            "name": "Kota Bharu, Malaysia - Sultan Ismail Petra Airport [KBR]",
+            "value": "KBR"
+        },
+        {
+            "name": "Kota Kinabalu, Malaysia - Kota Kinabalu International Airport [BKI]",
+            "value": "BKI"
+        },
+        {
+            "name": "Kuala Lumpur/Sepang, Malaysia - Kuala Lumpur International Airport [KUL]",
+            "value": "KUL"
+        },
+        {
+            "name": "Kuala Terengganu, Malaysia - Sultan Mahmud Airport [TGG]",
+            "value": "TGG"
+        },
+        {
+            "name": "Kuantan, Malaysia - Sultan Haji Ahmad Shah Airport [KUA]",
+            "value": "KUA"
+        },
+        {
+            "name": "Kuching, Malaysia - Kuching International Airport [KCH]",
+            "value": "KCH"
+        },
+        {
+            "name": "Langkawi, Malaysia - Langkawi International Airport [LGK]",
+            "value": "LGK"
+        },
+        {
+            "name": "Penang, Malaysia - Penang International Airport [PEN]",
+            "value": "PEN"
+        },
+        {
+            "name": "Subang, Malaysia - Sultan Abdul Aziz Shah Airport [SZB]",
+            "value": "SZB"
+        },
+        {
+            "name": "Mandalay, Myanmar (Burma) - Mandalay International Airport [MDL]",
+            "value": "MDL"
+        },
+        {
+            "name": "Yangon, Myanmar (Burma) - Yangon International Airport [RGN]",
+            "value": "RGN"
+        },
+        {
+            "name": "Naypyidaw, Myanmar (Burma) - Naypyidaw International Airport [NYT]",
+            "value": "NYT"
+        },
+        {
+            "name": "Batanes, Philippines - Basco Airport [BSO]",
+            "value": "BSO"
+        },
+        {
+            "name": "Cagayan, Philippines - Cagayan North International Airport [LLC]",
+            "value": "LLC"
+        },
+        {
+            "name": "Lapu-Lapu City, Philippines - Mactan?Cebu International Airport [CEB]",
+            "value": "CEB"
+        },
+        {
+            "name": "Angeles City, Philippines - Clark International Airport [CRK]",
+            "value": "CRK"
+        },
+        {
+            "name": "Davao City, Philippines - Francisco Bangoy International Airport [DVO]",
+            "value": "DVO"
+        },
+        {
+            "name": "General Santos, Philippines - General Santos International Airport [GES]",
+            "value": "GES"
+        },
+        {
+            "name": "Iloilo City, Philippines - Iloilo International Airport [ILO]",
+            "value": "ILO"
+        },
+        {
+            "name": "Kalibo, Philippines - Kalibo International Airport [KLO]",
+            "value": "KLO"
+        },
+        {
+            "name": "Laoag, Philippines - Laoag International Airport [LAO]",
+            "value": "LAO"
+        },
+        {
+            "name": "Manila, Philippines - Ninoy Aquino International Airport [MNL]",
+            "value": "MNL"
+        },
+        {
+            "name": "Panglao Island, Philippines - Bohol?Panglao International Airport [TAG]",
+            "value": "TAG"
+        },
+        {
+            "name": "Puerto Princesa, Philippines - Puerto Princesa International Airport [PPS]",
+            "value": "PPS"
+        },
+        {
+            "name": "Olongapo, Philippines - Subic Bay International Airport [SFS]",
+            "value": "SFS"
+        },
+        {
+            "name": "Zamboanga City, Philippines - Zamboanga International Airport [ZAM]",
+            "value": "ZAM"
+        },
+        {
+            "name": "Singapore, Singapore - Changi Airport [SIN]",
+            "value": "SIN"
+        },
+        {
+            "name": "Singapore, Singapore - Seletar Airport [XSP]",
+            "value": "XSP"
+        },
+        {
+            "name": "Bangkok/Samut Prakan, Thailand - Suvarnabhumi Airport [BKK]",
+            "value": "BKK"
+        },
+        {
+            "name": "Bangkok, Thailand - Don Mueang International Airport [DMK]",
+            "value": "DMK"
+        },
+        {
+            "name": "Chiang Mai, Thailand - Chiang Mai International Airport [CNX]",
+            "value": "CNX"
+        },
+        {
+            "name": "Chiang Rai, Thailand - Chiang Rai International Airport [CEI]",
+            "value": "CEI"
+        },
+        {
+            "name": "Rayong/Pattaya, Thailand - U-Tapao International Airport [UTP]",
+            "value": "UTP"
+        },
+        {
+            "name": "Hat Yai, Thailand - Hat Yai International Airport [HDY]",
+            "value": "HDY"
+        },
+        {
+            "name": "Krabi, Thailand - Krabi International Airport [KBV]",
+            "value": "KBV"
+        },
+        {
+            "name": "Phuket, Thailand - Phuket International Airport [HKT]",
+            "value": "HKT"
+        },
+        {
+            "name": "Surat Thani, Thailand - Surat Thani International Airport [URT]",
+            "value": "URT"
+        },
+        {
+            "name": "Ko Samui, Thailand - Samui Airport [USM]",
+            "value": "USM"
+        },
+        {
+            "name": "Udon Thani, Thailand - Udon Thani International Airport [UTH]",
+            "value": "UTH"
+        },
+        {
+            "name": "Da Nang, Vietnam - Da Nang International Airport [DAD]",
+            "value": "DAD"
+        },
+        {
+            "name": "Hanoi, Vietnam - Noi Bai International Airport [HAN]",
+            "value": "HAN"
+        },
+        {
+            "name": "Ho Chi Minh City, Vietnam - Tan Son Nhat International Airport [SGN]",
+            "value": "SGN"
+        },
+        {
+            "name": "Can Tho, Vietnam - Can Tho International Airport [VCA]",
+            "value": "VCA"
+        },
+        {
+            "name": "Haiphong, Vietnam - Cat Bi International Airport [HPH]",
+            "value": "HPH"
+        },
+        {
+            "name": "Huế, Vietnam - Phu Bai International Airport [HUI]",
+            "value": "HUI"
+        },
+        {
+            "name": "Phu Quoc, Vietnam - Phu Quoc International Airport [PQC]",
+            "value": "PQC"
+        },
+        {
+            "name": "Nha Trang, Vietnam - Cam Ranh International Airport [CXR]",
+            "value": "CXR"
+        },
+        {
+            "name": "Quảng Nam, Vietnam - Chu Lai Airport [VCL]",
+            "value": "VCL"
+        },
+        {
+            "name": "Kabul, Afghanistan - Kabul International Airport [KBL]",
+            "value": "KBL"
+        },
+        {
+            "name": "Herat, Afghanistan - Herat International Airport [HEA]",
+            "value": "HEA"
+        },
+        {
+            "name": "Kandahar, Afghanistan - Kandahar International Airport [KDH]",
+            "value": "KDH"
+        },
+        {
+            "name": "Mazar-i-Sharif, Afghanistan - Mazar-i-Sharif International Airport [MZR]",
+            "value": "MZR"
+        },
+        {
+            "name": "Manama, Bahrain - Bahrain International Airport [BAH]",
+            "value": "BAH"
+        },
+        {
+            "name": "Abadan, Iran - Abadan International Airport [ABD]",
+            "value": "ABD"
+        },
+        {
+            "name": "Ahvaz, Iran - Ahvaz International Airport [AWZ]",
+            "value": "AWZ"
+        },
+        {
+            "name": "Arak, Iran - Arak International Airport [AJK]",
+            "value": "AJK"
+        },
+        {
+            "name": "Ardabil, Iran - Ardabil Airport [ADU]",
+            "value": "ADU"
+        },
+        {
+            "name": "Asaluyeh, Iran - Persian Gulf Airport [PGU]",
+            "value": "PGU"
+        },
+        {
+            "name": "Bandar Abbas, Iran - Bandar Abbas International Airport [BND]",
+            "value": "BND"
+        },
+        {
+            "name": "Birjand, Iran - Birjand International Airport [XBJ]",
+            "value": "XBJ"
+        },
+        {
+            "name": "Bushehr, Iran - Bushehr Airport [BUZ]",
+            "value": "BUZ"
+        },
+        {
+            "name": "Gorgan, Iran - Gorgan International Airport [GBT]",
+            "value": "GBT"
+        },
+        {
+            "name": "Hamadan, Iran - Hamadan International Airport [HDM]",
+            "value": "HDM"
+        },
+        {
+            "name": "Ilam, Iran - Ilam Airport [IIL]",
+            "value": "IIL"
+        },
+        {
+            "name": "Isfahan, Iran - Isfahan International Airport [IFN]",
+            "value": "IFN"
+        },
+        {
+            "name": "Kerman, Iran - Ayatollah Hashemi Rafsanjani Airport [KER]",
+            "value": "KER"
+        },
+        {
+            "name": "Kermanshah, Iran - Shahid Ashrafi Esfahani Airport [KSH]",
+            "value": "KSH"
+        },
+        {
+            "name": "Kish Island, Iran - Kish Airport [KIH]",
+            "value": "KIH"
+        },
+        {
+            "name": "Konarak, Iran - Chabahar Konarak Airport [ZBR]",
+            "value": "ZBR"
+        },
+        {
+            "name": "Lamerd, Iran - Lamerd Airport [LFM]",
+            "value": "LFM"
+        },
+        {
+            "name": "Lar, Iran - Larestan International Airport [LRR]",
+            "value": "LRR"
+        },
+        {
+            "name": "Mashhad, Iran - Mashhad International Airport [MHD]",
+            "value": "MHD"
+        },
+        {
+            "name": "Qeshm Island, Iran - Qeshm International Airport [GSM]",
+            "value": "GSM"
+        },
+        {
+            "name": "Rasht, Iran - Rasht Airport [RAS]",
+            "value": "RAS"
+        },
+        {
+            "name": "Sari, Iran - Dasht-e Naz Airport [SRY]",
+            "value": "SRY"
+        },
+        {
+            "name": "Shiraz, Iran - Shiraz International Airport [SYZ]",
+            "value": "SYZ"
+        },
+        {
+            "name": "Tabriz, Iran - Tabriz International Airport [TBZ]",
+            "value": "TBZ"
+        },
+        {
+            "name": "Tehran, Iran - Imam Khomeini International Airport [IKA]",
+            "value": "IKA"
+        },
+        {
+            "name": "Tehran, Iran - Mehrabad International Airport [THR]",
+            "value": "THR"
+        },
+        {
+            "name": "Urmia, Iran - Urmia Airport [OMH]",
+            "value": "OMH"
+        },
+        {
+            "name": "Yazd, Iran - Shahid Sadooghi Airport [AZD]",
+            "value": "AZD"
+        },
+        {
+            "name": "Zahedan, Iran - Zahedan Airport [ZAH]",
+            "value": "ZAH"
+        },
+        {
+            "name": "Al Najaf, Iraq - Al Najaf International Airport NJF",
+            "value": "NJF"
+        },
+        {
+            "name": "Baghdad, Iraq - Baghdad International Airport [BGW]",
+            "value": "BGW"
+        },
+        {
+            "name": "Basra, Iraq - Basra International Airport [BSR]",
+            "value": "BSR"
+        },
+        {
+            "name": "Erbil, Iraq - Erbil International Airport [EBL]",
+            "value": "EBL"
+        },
+        {
+            "name": "Mosul, Iraq - Mosul International Airport [OSM]",
+            "value": "OSM"
+        },
+        {
+            "name": "Nasiriyah, Iraq - Nasiriyah Airport [XNH]",
+            "value": "XNH"
+        },
+        {
+            "name": "Sulaymaniyah, Iraq - Sulaimaniyah International Airport [ISU]",
+            "value": "ISU"
+        },
+        {
+            "name": "Eilat, Israel - Ramon Airport [ETM]",
+            "value": "ETM"
+        },
+        {
+            "name": "Haifa, Israel - Haifa Airport [HFA]",
+            "value": "HFA"
+        },
+        {
+            "name": "Tel Aviv, Israel - Ben Gurion Airport [TLV]",
+            "value": "TLV"
+        },
+        {
+            "name": "Aqaba, Jordan - King Hussein International Airport [AQJ]",
+            "value": "AQJ"
+        },
+        {
+            "name": "Amman, Jordan - Queen Alia International Airport [AMM]",
+            "value": "AMM"
+        },
+        {
+            "name": "Kuwait City, Kuwait - Kuwait International Airport [KWI]",
+            "value": "KWI"
+        },
+        {
+            "name": "Beirut, Lebanon - Beirut–Rafic Hariri International Airport [BEY]",
+            "value": "BEY"
+        },
+        {
+            "name": "Muscat, Oman - Muscat International Airport [MCT]",
+            "value": "MCT"
+        },
+        {
+            "name": "Salalah, Oman - Salalah International Airport [SLL]",
+            "value": "SLL"
+        },
+        {
+            "name": "Sohar, Oman - Sohar International Airport [OHS]",
+            "value": "OHS"
+        },
+        {
+            "name": "Doha, Qatar - Hamad International Airport [DOH]",
+            "value": "DOH"
+        },
+        {
+            "name": "Abha, Saudi Arabia - Abha International Airport [AHB]",
+            "value": "AHB"
+        },
+        {
+            "name": "Al-Ahsa, Saudi Arabia - Al-Ahsa International Airport [HOF]",
+            "value": "HOF"
+        },
+        {
+            "name": "Al-Jawf, Saudi Arabia - Al Jouf Airport [AJF]",
+            "value": "AJF"
+        },
+        {
+            "name": "Buraydah, Saudi Arabia - Prince Naif bin Abdulaziz International Airport [ELQ]",
+            "value": "ELQ"
+        },
+        {
+            "name": "Dammam, Saudi Arabia - King Fahd International Airport [DMM]",
+            "value": "DMM"
+        },
+        {
+            "name": "Ha'il, Saudi Arabia - Ha'il International Airport [HAS]",
+            "value": "HAS"
+        },
+        {
+            "name": "Jeddah, Saudi Arabia - King Abdulaziz International Airport [JED]",
+            "value": "JED"
+        },
+        {
+            "name": "Jizan, Saudi Arabia - Jizan Regional Airport [GIZ]",
+            "value": "GIZ"
+        },
+        {
+            "name": "Medina, Saudi Arabia - Prince Mohammad bin Abdulaziz International Airport [MED]",
+            "value": "MED"
+        },
+        {
+            "name": "Najran, Saudi Arabia - Najran Domestic Airport [EAM]",
+            "value": "EAM"
+        },
+        {
+            "name": "Riyadh, Saudi Arabia - King Khalid International Airport [RUH]",
+            "value": "RUH"
+        },
+        {
+            "name": "Tabuk, Saudi Arabia - Tabuk Regional Airport [TUU]",
+            "value": "TUU"
+        },
+        {
+            "name": "Ta'if, Saudi Arabia - Ta'if Regional Airport [TIF]",
+            "value": "TIF"
+        },
+        {
+            "name": "Yanbu, Saudi Arabia - Yanbu Airport [YNB]",
+            "value": "YNB"
+        },
+        {
+            "name": "Aleppo, Syria - Aleppo International Airport [ALP]",
+            "value": "ALP"
+        },
+        {
+            "name": "Damascus, Syria - Damascus International Airport [DAM]",
+            "value": "DAM"
+        },
+        {
+            "name": "Latakia, Syria - Bassel Al-Assad International Airport [LTK]",
+            "value": "LTK"
+        },
+        {
+            "name": "Qamishli, Syria - Qamishli Airport [KAC]",
+            "value": "KAC"
+        },
+        {
+            "name": "Abu Dhabi, United Arab Emirates - Abu Dhabi International Airport [AUH]",
+            "value": "AUH"
+        },
+        {
+            "name": "Al Ain, United Arab Emirates - Al Ain International Airport [AAN]",
+            "value": "AAN"
+        },
+        {
+            "name": "Dubai, United Arab Emirates - Al Maktoum International Airport [DWC]",
+            "value": "DWC"
+        },
+        {
+            "name": "Dubai, United Arab Emirates - Dubai International Airport [DXB]",
+            "value": "DXB"
+        },
+        {
+            "name": "Ras Al Khaimah, United Arab Emirates - Ras Al Khaimah International Airport [RKT]",
+            "value": "RKT"
+        },
+        {
+            "name": "Sharjah, United Arab Emirates - Sharjah International Airport [SHJ]",
+            "value": "SHJ"
+        },
+        {
+            "name": "Aden, Yemen - Aden International Airport [ADE]",
+            "value": "ADE"
+        },
+        {
+            "name": "Sanaa, Yemen - Sanaa International Airport [SAH]",
+            "value": "SAH"
+        },
+        {
+            "name": "Seiyun, Yemen - Seiyun Airport [GXF]",
+            "value": "GXF"
+        }
+    ]
+}

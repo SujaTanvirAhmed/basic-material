@@ -1,0 +1,20 @@
+.outer-body {
+    display: grid;
+    place-content: center;
+}
+
+.inner-body {
+    width: 350px;
+    height: 150px;
+    background-color: rgb(218, 218, 4);
+    color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+}
+
+h1 {
+    font-weight: bolder;
+}

@@ -1,0 +1,14 @@
+.user-add-form-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.add-user-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+}

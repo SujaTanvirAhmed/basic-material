@@ -1,0 +1,29 @@
+<div class="user-add-form-cont">
+
+    <div class="mat-display-1 page-heading">{{formTitle}}</div>
+
+    <mat-form-field>
+        <mat-label>Name</mat-label>
+        <input matInput [formControl]="name" required>
+    </mat-form-field>
+
+    <mat-form-field>
+        <mat-label>Position</mat-label>
+        <input matInput [formControl]="position" required>
+    </mat-form-field>
+
+    <mat-form-field>
+        <mat-label>Sex</mat-label>
+        <mat-select [formControl]="sex" required>
+            <mat-option value="male">Male</mat-option>
+            <mat-option value="female">Female</mat-option>
+        </mat-select>
+    </mat-form-field>
+
+    <button mat-raised-button color="primary" (click)="onSubmit()">
+        <span class="add-user-btn">
+            <mat-icon>{{isUpdateForm?'edit':'person_add_alt_rounded'}}</mat-icon> {{isUpdateForm?'Update':'Add'}} User
+        </span>
+    </button>
+
+</div>

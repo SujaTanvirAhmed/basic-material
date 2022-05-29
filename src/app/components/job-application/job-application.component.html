@@ -1,0 +1,10 @@
+<div class="application-container" (exportData)="receiveData('Mr. Zitan')">
+    <h2 class="form-title">Job Application Form</h2>
+    <p>You sent: {{name}}</p>
+    <div class="job-application">
+
+        <app-application-form></app-application-form>
+
+        <app-submitted-info [name]="name"></app-submitted-info>
+    </div>
+</div>

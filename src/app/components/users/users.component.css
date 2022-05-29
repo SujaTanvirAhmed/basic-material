@@ -1,0 +1,26 @@
+.users-cont {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 50px;
+    background: linear-gradient(45deg, blue, white);
+    padding: 20px;
+}
+
+.users-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.add-user-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+}
+
+.users-title {
+    text-align: center;
+}

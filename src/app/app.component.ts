@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'basic-material';
+  constructor() {
+    console.log("app created");
+  }
 }

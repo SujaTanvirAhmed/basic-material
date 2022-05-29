@@ -1,0 +1,27 @@
+mat-toolbar {
+    display: flex;
+    justify-content: flex-end;
+    gap: 120px;
+    padding: 0 50px;
+    /* padding-right: 30px; */
+}
+
+mat-toolbar .logo {
+    margin-right: auto;
+}
+
+.menu-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 10%;
+    border-radius: 0;
+}
+
+.menu-item:last-child {
+    padding-right: 100px;
+}
+
+.active-menu {
+    border-bottom: 1px solid lightgray;
+}

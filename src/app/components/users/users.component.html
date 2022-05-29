@@ -1,0 +1,16 @@
+<div class="users-header">
+    <div class="mat-display-1">
+        {{ users.length > 0 ? 'All Users' : 'No Users to Show' }}
+    </div>
+    <button mat-raised-button color="primary" routerLink="/users/add">
+        <span class="add-user-btn">
+            <mat-icon>person_add_alt_rounded</mat-icon> Add New User
+        </span>
+    </button>
+</div>
+
+<div class="users-cont" *ngIf="users.length>0">
+    <div *ngFor="let user of users">
+        <app-user [user]="user" (deleteUserEvent)="deleteUser($event)" (updateUserEvent)="updateUsers()"></app-user>
+    </div>
+</div>
